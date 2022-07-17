@@ -1,7 +1,7 @@
 # Analista-de-Teste-Ultima-School
 
 
-## Repositório criado para as atividades  do Curso Ultima school que tem como objetivo a formação em Anlista de teste 
+## Repositório criado para as atividades  do Curso Ultima school que tem como objetivo a formação em Analista de teste 
 ### Casos de Teste / Planos de Teste
 
 ## 🚀 Começando
