@@ -26,9 +26,8 @@ Jira e o Confluence
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Senior QA Tester** -  - [Senior QA Tester](https://github.com/carolsprak/publicazo)
+* **Senior QA Tester** - Anne Caroline - [Senior QA Tester](https://github.com/carolsprak/publicazo)
 
 ## 🎁 Expressões de gratidão
 
